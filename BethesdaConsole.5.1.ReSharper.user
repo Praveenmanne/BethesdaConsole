@@ -1,0 +1,100 @@
+<Configuration>
+  <SettingsComponent>
+    <string />
+    <integer />
+    <boolean>
+      <setting name="livetemplates.csharp.usevar">True</setting>
+      <setting name="SolutionAnalysisEnabled">False</setting>
+    </boolean>
+  </SettingsComponent>
+  <CompletionStatisticsManager>
+    <ItemStatistics item="Default">
+      <Item value="web" priority="5" />
+      <Item value="SPGroup`0" priority="0" />
+      <Item value="group" priority="2" />
+      <Item value="ViewListItems" priority="0" />
+      <Item value="SPRights`0" priority="0" />
+      <Item value="true" priority="0" />
+      <Item value="false" priority="0" />
+      <Item value="siteOwner" priority="0" />
+      <Item value="string" priority="0" />
+      <Item value="groupName" priority="3" />
+      <Item value="var" priority="0" />
+      <Item value="foreach" priority="0" />
+      <Item value="list" priority="0" />
+      <Item value="SPListItem`0" priority="0" />
+      <Item value="spListItem" priority="0" />
+      <Item value="if" priority="0" />
+      <Item value="try" priority="0" />
+      <Item value="continue" priority="0" />
+      <Item value="finally" priority="0" />
+      <Item value="Console`0" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Microsoft.SharePoint.SPWeb">
+      <Item value="Groups" priority="1" />
+      <Item value="Users" priority="0" />
+      <Item value="Update`0" priority="0" />
+      <Item value="AllowUnsafeUpdates" priority="0" />
+      <Item value="SiteGroups" priority="1" />
+      <Item value="Lists" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Microsoft.SharePoint.SPGroupCollection">
+      <Item value="Add`0" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Microsoft.SharePoint.SPGroup">
+      <Item value="Roles" priority="0" />
+      <Item value="Update`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Microsoft.SharePoint.SPRoleCollection">
+      <Item value="Add`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Microsoft.SharePoint.SPList">
+      <Item value="Items" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Microsoft.SharePoint.SPListItem">
+      <Item value="Title" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Object">
+      <Item value="ToString`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Console">
+      <Item value="WriteLine`0" priority="0" />
+      <Item value="ReadKey`0" priority="0" />
+    </ItemStatistics>
+  </CompletionStatisticsManager>
+  <RecentFiles>
+    <RecentFiles>
+      <File id="BB26B15B-AC23-40DC-A489-DC26612543F2/f:Program.cs" caret="1022" fromTop="20" />
+    </RecentFiles>
+    <RecentEdits>
+      <File id="BB26B15B-AC23-40DC-A489-DC26612543F2/f:Program.cs" caret="2058" fromTop="27" />
+      <File id="BB26B15B-AC23-40DC-A489-DC26612543F2/f:Program.cs" caret="2058" fromTop="21" />
+      <File id="BB26B15B-AC23-40DC-A489-DC26612543F2/f:Program.cs" caret="2058" fromTop="41" />
+      <File id="BB26B15B-AC23-40DC-A489-DC26612543F2/f:Program.cs" caret="2058" fromTop="15" />
+      <File id="BB26B15B-AC23-40DC-A489-DC26612543F2/f:Program.cs" caret="2058" fromTop="18" />
+      <File id="BB26B15B-AC23-40DC-A489-DC26612543F2/f:Program.cs" caret="2058" fromTop="11" />
+      <File id="BB26B15B-AC23-40DC-A489-DC26612543F2/f:Program.cs" caret="2058" fromTop="16" />
+      <File id="BB26B15B-AC23-40DC-A489-DC26612543F2/f:Program.cs" caret="2082" fromTop="34" />
+      <File id="BB26B15B-AC23-40DC-A489-DC26612543F2/f:Program.cs" caret="2058" fromTop="26" />
+      <File id="BB26B15B-AC23-40DC-A489-DC26612543F2/f:Program.cs" caret="2058" fromTop="14" />
+      <File id="BB26B15B-AC23-40DC-A489-DC26612543F2/f:Program.cs" caret="739" fromTop="16" />
+      <File id="BB26B15B-AC23-40DC-A489-DC26612543F2/f:Program.cs" caret="819" fromTop="19" />
+      <File id="BB26B15B-AC23-40DC-A489-DC26612543F2/f:Program.cs" caret="2024" fromTop="22" />
+      <File id="BB26B15B-AC23-40DC-A489-DC26612543F2/f:Program.cs" caret="2024" fromTop="33" />
+      <File id="BB26B15B-AC23-40DC-A489-DC26612543F2/f:Program.cs" caret="2056" fromTop="38" />
+      <File id="BB26B15B-AC23-40DC-A489-DC26612543F2/f:Program.cs" caret="2424" fromTop="24" />
+      <File id="BB26B15B-AC23-40DC-A489-DC26612543F2/f:Program.cs" caret="366" fromTop="13" />
+    </RecentEdits>
+  </RecentFiles>
+  <NAntValidationSettings>
+    <NAntPath value="" />
+  </NAntValidationSettings>
+  <UnitTestRunner>
+    <Providers />
+  </UnitTestRunner>
+  <UnitTestRunnerNUnit>
+    <NUnitInstallDir IsNull="False">
+    </NUnitInstallDir>
+    <UseAddins>Never</UseAddins>
+  </UnitTestRunnerNUnit>
+</Configuration>

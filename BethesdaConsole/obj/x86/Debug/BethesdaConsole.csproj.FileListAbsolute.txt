@@ -1,0 +1,12 @@
+C:\Users\Administrator\Documents\Santhosh_Developments\BethesdaConsole\BethesdaConsole\bin\Debug\BethesdaConsole.exe
+C:\Users\Administrator\Documents\Santhosh_Developments\BethesdaConsole\BethesdaConsole\bin\Debug\BethesdaConsole.pdb
+C:\Users\Administrator\Documents\Santhosh_Developments\BethesdaConsole\BethesdaConsole\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Administrator\Documents\Santhosh_Developments\BethesdaConsole\BethesdaConsole\obj\x86\Debug\BethesdaConsole.exe
+C:\Users\Administrator\Documents\Santhosh_Developments\BethesdaConsole\BethesdaConsole\obj\x86\Debug\BethesdaConsole.pdb
+\\sakthi\Public\@dmin\BACKUP's\C drive\Back up\Praveen\Santhosh_code\BethesdaConsole\BethesdaConsole\obj\x86\Debug\BethesdaConsole.exe
+\\sakthi\Public\@dmin\BACKUP's\C drive\Back up\Praveen\Santhosh_code\BethesdaConsole\BethesdaConsole\obj\x86\Debug\BethesdaConsole.pdb
+\\sakthi\Public\@dmin\BACKUP's\C drive\Back up\Praveen\Quick Search\Santhosh_code\BethesdaConsole\BethesdaConsole\obj\x86\Debug\BethesdaConsole.exe
+\\sakthi\Public\@dmin\BACKUP's\C drive\Back up\Praveen\Quick Search\Santhosh_code\BethesdaConsole\BethesdaConsole\obj\x86\Debug\BethesdaConsole.pdb
+\\sakthi\Public\@dmin\BACKUP's\C drive\Back up\Praveen\Quick Search\Santhosh_code\BethesdaConsole\BethesdaConsole\bin\Debug\BethesdaConsole.exe
+\\sakthi\Public\@dmin\BACKUP's\C drive\Back up\Praveen\Quick Search\Santhosh_code\BethesdaConsole\BethesdaConsole\bin\Debug\BethesdaConsole.pdb
+\\sakthi\Public\@dmin\BACKUP's\C drive\Back up\Praveen\Quick Search\Santhosh_code\BethesdaConsole\BethesdaConsole\obj\x86\Debug\ResolveAssemblyReference.cache
